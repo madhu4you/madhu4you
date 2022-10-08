@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am experienced senior web developer with extensive expertise in website applications, agile development, and testing methods. Proficient in coding languages and strategies that lead to efficient and effective web developments. Proven ability to create, implement, refactor, and execute both testing and final product pages for a variety of industries and purposes.
+
 <!--
 **madhu4you/madhu4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
